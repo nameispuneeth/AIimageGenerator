@@ -34,9 +34,3 @@ Project/ <br/>
 4. If an image fails to load, an error message is shown.
 
 ---
-
-## 🛠️ Setup Instructions
-
-### 1. Clone or Download the Repository
-```bash
-git clone https://github.com/your-username/ai-image-generator.git

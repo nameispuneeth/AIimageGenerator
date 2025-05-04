@@ -17,11 +17,11 @@ This is a simple web-based application that generates images using AI models hos
 
 ## 📁 Project Structure
 
-Project/
-│
-├── pro2.html # Main HTML file
-├── style2.css # Styling for the UI
-├── ai.js # JavaScript logic for API requests and UI updates
+Project/ <br/>
+│<br/>
+├── pro2.html # Main HTML file <br/>
+├── style2.css # Styling for the UI <br/>
+├── ai.js # JavaScript logic for API requests and UI updates <br/>
 
 
 ---

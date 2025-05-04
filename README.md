@@ -4,10 +4,6 @@ This is a simple web-based application that generates images using AI models hos
 
 ---
 
-## 🌐 Live Demo (Optional)
-> You can deploy this project on GitHub Pages, Netlify, or Vercel and include the link here.
-
----
 
 ## 🚀 Features
 
